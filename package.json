@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rteeraphong/testpackage/issues"
   },
-  "homepage": "https://github.com/rteeraphong/testpackage#readme"
+  "homepage": "https://github.com/rteeraphong/testpackage#readme",
+  "publishConfig": {
+   "rteeraphong@gmail.com:registry": "https://npm.pkg.github.com"
+ }
 }
