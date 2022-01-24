@@ -1,0 +1,22 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rteeraphong/testpackage.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "teeraphong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rteeraphong/testpackage/issues"
+  },
+  "homepage": "https://github.com/rteeraphong/testpackage#readme"
+}
